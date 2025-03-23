@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:seebook/widget/like_cmt_share.dart';
-import 'model/post_model.dart';
+import '../model/post_model.dart';
 
 class PostCard extends StatelessWidget {
   final Post post;

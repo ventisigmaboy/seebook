@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:seebook/model/story_model.dart';
 import 'package:seebook/pages/detail_screen.dart';
-import 'package:seebook/post_card.dart';
+import 'package:seebook/widget/post_card.dart';
 import 'package:seebook/model/post_model.dart';
-import 'package:seebook/story_card.dart';
+import 'package:seebook/widget/story_card.dart';
 import 'package:seebook/pages/search_screen.dart';
 
 class HomeScreen extends StatefulWidget {
